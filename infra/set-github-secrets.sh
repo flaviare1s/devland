@@ -4,7 +4,7 @@
 set -eu
 cd "$(dirname "$0")"
 
-REPO="devland-app/devland"
+REPO="flaviare1s/devland"
 TERRAFORM_IMAGE="hashicorp/terraform:1.17.1"
 
 output() {
