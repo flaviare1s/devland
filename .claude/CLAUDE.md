@@ -145,7 +145,8 @@ Monorepo com npm workspaces, Node 22 (`.nvmrc`) e ESM em todo lugar (`"type": "m
 
 ## Git
 
-- Repositório: `devland-app/devland` (organização no GitHub).
+- Repositório: `flaviare1s/devland` (conta pessoal no GitHub; veio da organização `devland-app`, que
+  continua existindo só para manter o redirecionamento dos links antigos).
 - Conventional Commits em inglês, no imperativo e com inicial minúscula, validados pelo commitlint
   no hook `commit-msg`: `feat(api): add product listing`, `fix(web): handle empty catalog`,
   `build: ...`, `ci: ...`, `docs: ...`, `test: ...`.

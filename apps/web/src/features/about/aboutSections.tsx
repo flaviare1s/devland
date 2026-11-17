@@ -2,7 +2,7 @@ import type { ReactNode } from "react";
 
 import { ExternalLink } from "../../shared/ui/ExternalLink.tsx";
 
-export const REPOSITORY_URL = "https://github.com/devland-app/devland";
+export const REPOSITORY_URL = "https://github.com/flaviare1s/devland";
 
 function repoLink(path: string, label: string) {
   return <ExternalLink href={`${REPOSITORY_URL}/${path}`}>{label}</ExternalLink>;
